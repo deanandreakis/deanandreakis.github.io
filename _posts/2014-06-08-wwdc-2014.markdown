@@ -1,0 +1,13 @@
+---
+layout: post
+title: "WWDC 2014"
+date: 2014-06-08 20:03:43 -0500
+comments: true
+categories: apple
+---
+
+Last week Apple hosted the yearly world wide developers conference. I planned ahead and took a vacation day from my day job just to watch the keynote address Monday morning. I watched as Apple introduced OS X Yosemite, iOS 8 and then additional features for developers. There was way too many new API's and features to talk about here but I want to quickly discuss two announcements that I think will have the longest lasting impact on the future of the Apple platforms.
+
+The first is the announcement of extensions. Extensions provide a mechanism for applications to communicate and share data. The examples given during the keynote address include an application being able to provide a widget in the notifications area in order to provide limited information to the user. An example of this might be the ESPN application providing sports scores in the notifications area. A second example is an application being able to provide a custom action via an action sheet within the context of another application. Extensions are also the mechanism by which custom third-party keyboards will be supported. My opinion is that extensions will fundamentally change the way developers and designers design apps. The possibilities are endless. Imagine designing an app that could provide hundreds of photo filters to the user and then extending this functionality so that the user could access these filters from right within the native Apple photos app without ever leaving the app.
+
+The second major announcement for developers was that of a new programming language for all Apple platforms called Swift. Swift is a modern language designed from the ground up to be more expressive and safe. Swift will allow Apple to attract even more developers to there platforms by providing a language that draws from many modern languages such as Python, Ruby, Rust, D , and many others. My jaw literally dropped open when Apple's Craig Federighi announced Swift. I immediately thought of the famous blog post by John Siracusa entitled ["Copeland 2010 revisited: Apple's language and API future"](http://arstechnica.com/apple/2010/06/copland-2010-revisited/) which chronicles John's opinion that Apple better plan for platform/language transition many years in advance if they don't want to be caught in a bad situation. I just wish I could have seen the look on John's face during the announcement!

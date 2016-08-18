@@ -1,0 +1,13 @@
+---
+layout: post
+title: "CocoaConf Chicago"
+date: 2013-11-22 02:32:44 -0600
+comments: false
+categories: conferences
+---
+
+I attended <a href="http://cocoaconf.com/">CocoaConf</a> Chicago in March of this year. This was my second time attending as I also attended in 2012. There is always a dizzying array of high-quality speakers and this year was no exception. There are two main attributes that I really love about CocoaConf; the first is that it is a traveling conference so that alleviates the need for me to take a more expensive trip and the second is the multi-track format that allows for more choice amongst the attendees as well as more openings for speakers. I find that the Apple developer community is very open and welcoming.
+
+I was able to reconnect with several of my peers as well as meet some very interesting new personalities. One of these personalities was James Dempsey. James is an Apple veteran but the thing that really sets him apart is his band named James Dempsey and the Breakpoints. He lead a <a href="http://jamesdempsey.net/2013/03/14/chicago-breakpoint-jam-recap/">"Breakpoint Jam"</a> that had as it's headlining song "The Liki Song...The history of Cocoa memory management with a Hawaiian groove". Daniel Steinburg was the keynote speaker and as always he gave a stellar talk filled with whit, charm and information. I think my favorite light-hearted takeaway from his talk was the realization that we as developers are too often involved in HDD or "Hate-Driven Development"...the idea that no amount of wrestling with our tools, poor documentation or difficult bugs can keep us down! I also enjoyed the reverse Q&amp;A panel that allows for the panel of expert speakers to ask questions of the audience. This years edition of the reverse Q&amp;A panel focused mainly on Women and minorities in the Apple developer community and I have to say it was quite inspiring to hear the honest dialog and efforts in this regard.
+
+I was inspired by Brittany Tarvin's talk on Women in technology and it made me think about my daughters and there relationship to technology. As far as the actual technical talks, I think my favorites were the AFNetworking talk by <a href="http://cocoaconf.com/conference/speakerDetails/63?confId=8">Ben Scheirman</a> and the Cocoapods talk by <a href="http://cocoaconf.com/conference/speakerDetails/89?confId=8">Peter Kananen</a>. Both technologies found there way into my next project. All in all I had a terrific time. I would definitely suggest that any iOS or Mac developers looking for a conference with high-quality speakers should definitely check CocoaConf out.

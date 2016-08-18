@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Apple Developer Resources"
+date: 2014-04-17 21:43:33 -0500
+comments: false
+categories: [developer resources]
+---
+
+Being a developer for Apple platforms can be an exciting challenge and as such its important to keep up on the latest developments. In this post I will outline a few online resources that I regularly use to keep me technically informed about iOS, OS X, Objective-C, Xcode etc. The first and most obvious of these are the resources from Apple itself which are available at [developer.apple.com](https://developer.apple.com). These resources include getting started articles, guides, references, release notes, sample code, technical notes, development videos, and developer forums.  If I am using a new Cocoa framework or API the first place I head is to the Apple documentation including the guides, references, and sample code. 
+
+Another excellent source of information is Mattt Thompson's [NSHipster](http://nshipster.com). NSHipster is the self-proclaimed "journal of the overlooked bits in Objective-C and Cocoa. Updated weekly". It's an invaluable source of these small bits of information and I always look forward to the weekly updates. [This weeks article](http://nshipster.com/xcode-plugins/) (dated April 14th) is about Xcode Plugins and covers a wide array of very useful plugins that do everything from simulating other editors like vim and sublime text to adding a button to erase the DerivedData folder. 
+
+If you prefer a deep technical analysis of a particular topic related to Apple platform development then [objc.io](http://objc.io) is for you. It touts itself as "A periodical about best practices and advanced techniques in Objective-C".Typically published monthly, the format is akin to a magazine with defined issues and editorials that provide an overview of the technical theme. Each issue includes several articles from various authors all relating to the overall theme. [Issue 10](http://www.objc.io/issue-10/) is on Syncing Data and has several in-depth articles including Data Synchronization and iCloud and Core Data. The quality of the content is excellent and provides some of the deepest and most complete analysis available anywhere.
+
+Last, but definitely not least, is [NSScreencast](http://www.nsscreencast.com). The format, as you may have guessed by the name, is that of a screencast. A usually short video (10-30 minutes) of an Xcode coding session is accompanied by narration from the creator of the site Ben Scheirman. Show notes as well as the source code for each episode are also provided. This format is particularly effective at showing very hands-on examples of how-to's in various topics such as implementing the Blur design effect in iOS7, Strong versus Copy semantics for properties, Xcode 5.1 features, NSPredicates etc. Screencasts are published weekly. This site is supported by a subscription model and current subscriptions are $9/month. Other subscription options are available so please check with the site for further details. I use this site often as the content is excellent!
+
+The elephant in the room for online development resources is [Stack Overflow](https://stackoverflow.com). While not specific to Apple platforms, this site has gained a reputation as the best Q&A site for programmers and a kind of site-of-last-resort when you have a problem and just can't seem to figure it out. I freely admit that sometimes it feels like I spend an entire programming session googling for an answer then clicking the Stack Overflow link that gives me the answer I need. As with any online resource, my advice for finding code snippets here is to always understand what the code is doing before thinking of just cutting-and-pasting it into your project.
+
+So there you have it...all the online resources I use to try and keep up with the ever faster pace of change of Apple development technologies...Phew!

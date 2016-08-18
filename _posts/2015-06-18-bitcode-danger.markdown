@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Bitcode Danger"
+date: 2015-06-18 02:13:54 -0500
+comments: true
+categories: [apple, technology, apps]
+---
+
+WWDC 2015 had plenty of new announcements including a new native WatchKit SDK for WatchOS, features specific to the iPad for true multitasking and workflow improvements(SlideOver and App Pinning) and Siri improvements. One of the more interesting was a group of technologies collectively known as App Thinning. The idea is a good one; provide a mechanism by which an apps footprint can be optimized by the app store so that only exactly what is required for the app to execute is actually downloaded and installed by a particular device. One of these technologies is known as [Bitcode](https://developer.apple.com/library/prerelease/watchos/documentation/IDEs/Conceptual/AppDistributionGuide/AppThinning/AppThinning.html#//apple_ref/doc/uid/TP40012582-CH35-SW2). It provides a way for the app store to re-compile and link binaries uploaded by developers for the purpose of optimizing them without the need for the developer to re-upload a new binary. The danger I see here is that the binary that the developer has so carefully crafted and tested and uploaded to the app store is now not the same as the binary actually downloaded and installed by there customers. If Bitcode is ever identified as the source of issues for any third-party Apple developers, developers will be demanding more control over the whole process as well as wanting the ability to disable the whole technology altogether. Apple should provide some way either in Xcode itself or via the iTunes Connect portal via Testflight for a developer to access the post-optimized binaries for testing. It seems only right to have some mechanism for developers to test the actual binaries that there customers will install.

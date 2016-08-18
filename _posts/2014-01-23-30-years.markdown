@@ -1,0 +1,9 @@
+---
+layout: post
+title: "30 Years"
+date: 2014-01-23 16:33:27 -0600
+comments: false
+categories: apple
+---
+
+On January 24th 1984 Steve Jobs unveiled the first Mac to the world. It's a moment in time that changed personal computing forever. My own history with computing was heavily influenced by an early encounter with the Mac. In 1984 I was 18 years old and had worked on Apple IIe and Radio Shack TRS-80 computers at my high school. My older sister worked at a computer reseller and often brought home computers for me to experiment with. Later that year she brought home the Mac. I remember playing with MacPaint for hours. It was my first experience with a graphical display and a mouse and I was totally engrossed and amazed at the same time. To this day my favorite platform to work on is the Mac. Happy birthday Mac!
