@@ -9,7 +9,7 @@ published: true
 
 I was as stunned as everyone when Apple announced a new programming language called Swift at this years World Wide Developers Conference. I had been working on a new iOS app that takes advantage of the Marvel API to display comic book character information and had started the project as usual in Objective-C. I had only just created the basics in the Model layer including the core model objects and relationships along with a wrapper object that encapsulates basic CoreData functionality. I decided that since I was not very far into this new project that it would be a good idea to restart the project in Swift in order to accelerate my learning on the new language. I also decided that the best place to start would be that CoreData wrapper object since it was fairly simple and straightforward. Here is the header and implementation file of the original Objecive-C wrapper object which I call DatabaseManager:
 
-``` objective-c Code for DatabaseManager Header
+{% highlight swift %}
 #import <Foundation/Foundation.h>
 
 @interface DatabaseManager : NSObject
@@ -25,11 +25,11 @@ I was as stunned as everyone when Apple announced a new programming language cal
 - (NSURL *)applicationDocumentsDirectory;
 
 @end
-```
+{% endhighlight %}
 
 And here is it's Objective-C implementation file:
 
-``` objective-c Code for DatabaseManager Implementation
+{% highlight swift %}
 #import "DatabaseManager.h"
 #import "SynthesizeSingleton.h"
 #import "DNWAppDelegate.h"
@@ -163,11 +163,11 @@ SYNTHESIZE_SINGLETON_FOR_CLASS(DatabaseManager);
  }
 
 @end
-```
+{% endhighlight %}
 
 Here is the same implementation is Swift:
 
-``` objective-c
+{% highlight swift %}
 import Foundation
 import CoreData
 
@@ -265,7 +265,7 @@ class DatabaseManager {
         return NSFileManager.defaultManager()?.URLsForDirectory(NSSearchPathDirectory.DocumentDirectory, inDomains: NSSearchPathDomainMask.UserDomainMask)?.bridgeToObjectiveC().lastObject as? NSURL
     }
 }
-```
+{% endhighlight %}
 
 Here are some initial observations having ported this DatabaseManager object:
 

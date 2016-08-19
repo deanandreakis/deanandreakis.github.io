@@ -3,10 +3,10 @@
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 disqus:
-google_analytics:
+google_analytics: UA-49587814-1
 title: DEANWARE
 
 defaults:
@@ -16,15 +16,15 @@ defaults:
     values:
       title: 
 
-description: Musings about Apple and Technology in General...
+description:
 author:
   name: Dean Andreakis
   email: dean@deanware.com
   github: deanandreakis
   twitter: deanandreakis
-  pinterest:
+  pinterest: dandreakis
   linkedin: deanandreakis
-  bio: Software Developer
+  bio: Musings about Apple and Technology in General...
   email_md5:
 
 rss_path: feed.xml
