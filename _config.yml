@@ -19,11 +19,11 @@ defaults:
 description:
 author:
   name: Dean Andreakis
-  email: dean@deanware.com
-  github: deanandreakis
-  twitter: deanandreakis
-  pinterest: dandreakis
-  linkedin: deanandreakis
+  email: dean@deanware.co
+  github:
+  twitter: _deanware
+  pinterest:
+  linkedin:
   bio: Musings about Apple and Technology in General...
   email_md5:
 
