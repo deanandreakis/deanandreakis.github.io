@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Apple 2017: Chrome OS Gaining in School"
+date: 2017-03-02
+categories: [apple, technology]
+tags: []
+---
+
+[REPORT: APPLE’S IOS AND MACOS LOSE MARKET SHARE TO CHROME OS IN US K-12](https://9to5mac.com/2017/03/02/apple-ios-market-share-k-12-education-chrome-os/)
+
+Jordan Kahn, reporting for 9to5Mac:
+
+>Apple’s iOS and macOS platforms both lost share to Chrome OS in the US K-12 education market last year, according to new data from Futuresource Consulting (via The New York Times). In the US, Chrome OS managed to grow to 58% market share in 2016 up from 50% a year earlier, while iOS dropped to 14%, down from 19% in 2015, and macOS dropped to 5% share, down from 6%.
+
+Not surprising. Chrome OS is a natural fit in the K-12 market where price means everything. Chrome OS also provides low maintenance overhead since data is created and saved in the cloud which is a big advantage for schools with tiny IT budgets.
